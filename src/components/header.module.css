@@ -1,0 +1,27 @@
+/* Matches footer’s dark elegant tone */
+.navbar {
+ background-color: rgba(0, 0, 0, 0.8);
+  
+}
+
+/* Logo */
+.logo {
+  height: 42px;
+  width: auto;
+  filter: drop-shadow(0 0 5px rgba(0, 255, 136, 0.2));
+}
+
+
+.navLink {
+  color: #dcdcdc;
+  transition: color 0.3s ease, text-shadow 0.3s ease;
+  padding: 0.5rem 0.8rem;
+}
+
+
+.navLink:hover {
+  color: #034325 ;
+  
+}
+
+
